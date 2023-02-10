@@ -1,3 +1,0 @@
-Ejercicio: Git y Github en el entorno de desarrollo Visual Studio
-Code
-hola
